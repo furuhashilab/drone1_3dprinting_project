@@ -23,7 +23,7 @@
 - GitHub：進捗共有・ファイル管理・課題報告
 - Medium：週報投稿
 
-## GitHub運用ルール（Project Rules）
+## GitHub運用ルール
 - 作成したデータファイルは Code にアップロードする
 - 不具合やトラブルは Issue に報告する
 - 各週の進捗は Medium に加えて、対応する Issue にコメントとして記録する
